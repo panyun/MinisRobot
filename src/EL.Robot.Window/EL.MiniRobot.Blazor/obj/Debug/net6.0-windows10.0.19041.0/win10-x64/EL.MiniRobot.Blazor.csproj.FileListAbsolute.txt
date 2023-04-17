@@ -386,3 +386,6 @@ D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10
 D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Counter.razor.rz.scp.css
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\FetchData.razor.rz.scp.css
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Index.razor.rz.scp.css

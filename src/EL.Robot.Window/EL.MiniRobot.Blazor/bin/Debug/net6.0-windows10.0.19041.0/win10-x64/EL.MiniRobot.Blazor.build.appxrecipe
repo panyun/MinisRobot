@@ -904,6 +904,9 @@
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\css\open-iconic\README.md">
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\css\styles.css">
+      <PackagePath>wwwroot\css\styles.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -1080,6 +1083,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\Counter.razor.css">
+      <PackagePath>Pages\Counter.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\FetchData.razor.css">
+      <PackagePath>Pages\FetchData.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\Index.razor.css">
+      <PackagePath>Pages\Index.razor.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

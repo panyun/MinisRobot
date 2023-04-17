@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-17T18:43:28.600</Modified>
+      <Modified>2023-04-17T19:14:50.704</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-04-17T18:43:27.861</Modified>
+      <Modified>2023-04-17T19:12:47.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\EL.MiniRobot.Blazor.runtimeconfig.json">
       <PackagePath>EL.MiniRobot.Blazor.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\EL.MiniRobot.Blazor.dll">
       <PackagePath>EL.MiniRobot.Blazor.dll</PackagePath>
-      <Modified>2023-04-17T18:43:26.558</Modified>
+      <Modified>2023-04-17T19:14:49.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>EL.MiniRobot.Blazor.exe</PackagePath>
-      <Modified>2023-04-17T18:43:26.590</Modified>
+      <Modified>2023-04-17T19:14:49.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\panyu\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.16\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1131,7 +1131,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\EL.MiniRobot.Blazor.deps.json">
       <PackagePath>EL.MiniRobot.Blazor.deps.json</PackagePath>
-      <Modified>2023-04-17T18:43:28.370</Modified>
+      <Modified>2023-04-17T19:14:50.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\panyu\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1151,11 +1151,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\EL.MiniRobot.Blazor.styles.css">
       <PackagePath>wwwroot\EL.MiniRobot.Blazor.styles.css</PackagePath>
-      <Modified>2023-04-17T18:43:21.079</Modified>
+      <Modified>2023-04-17T18:55:57.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\EL.MiniRobot.Blazor.bundle.scp.css">
       <PackagePath>wwwroot\EL.MiniRobot.Blazor.bundle.scp.css</PackagePath>
-      <Modified>2023-04-17T18:43:21.080</Modified>
+      <Modified>2023-04-17T18:55:57.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1205,13 +1205,17 @@
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
       <Modified>2023-04-17T18:29:22.041</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\css\styles.css">
+      <PackagePath>wwwroot\css\styles.css</PackagePath>
+      <Modified>2023-04-17T18:50:39.894</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2023-04-17T18:29:22.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2023-04-17T18:29:22.045</Modified>
+      <Modified>2023-04-17T18:51:40.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -1441,13 +1445,25 @@
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-04-17T18:37:29.627</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\Counter.razor.css">
+      <PackagePath>Pages\Counter.razor.css</PackagePath>
+      <Modified>2023-04-17T18:55:56.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\FetchData.razor.css">
+      <PackagePath>Pages\FetchData.razor.css</PackagePath>
+      <Modified>2023-04-17T18:45:02.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Pages\Index.razor.css">
+      <PackagePath>Pages\Index.razor.css</PackagePath>
+      <Modified>2023-04-17T18:45:02.363</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
-      <Modified>2023-04-17T18:43:07.449</Modified>
+      <Modified>2023-04-17T18:53:43.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\Shared\NavMenu.razor.css">
       <PackagePath>Shared\NavMenu.razor.css</PackagePath>
-      <Modified>2023-04-17T18:43:18.255</Modified>
+      <Modified>2023-04-17T18:45:02.363</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

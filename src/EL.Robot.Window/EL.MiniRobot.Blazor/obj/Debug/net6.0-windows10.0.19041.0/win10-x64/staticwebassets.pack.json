@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

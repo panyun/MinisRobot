@@ -1,0 +1,22 @@
+* {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    print-color-adjust: exact;
+}
+
+*::-webkit-scrollbar {
+    background-color: transparent;
+    border-radius: 4px;
+    height: 20px;
+    width: 20px;
+}
+
+*::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: var(--c-neutral-grey4);
+    border-radius: 20px;
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hfXsOhK6Y4vDhHzDByZpZ0ljz/JY3fotW0P4SDH7JU4=",
+  "Hash": "ZiWPq+LHeeHtZ149RhGT+BERt9x+GT52mTe920uV0W4=",
   "Source": "EL.MiniRobot.Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\css\\styles.css",
+      "SourceId": "EL.MiniRobot.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\favicon.ico",
