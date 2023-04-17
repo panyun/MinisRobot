@@ -27,14 +27,14 @@ main[b-15dgnaaxsx] {
         text-decoration: none;
     }
 
-    .top-row[b-15dgnaaxsx]  a:hover, .top-row[b-15dgnaaxsx]  .btn-link:hover {
-        text-decoration: underline;
-    }
+        .top-row[b-15dgnaaxsx]  a:hover, .top-row[b-15dgnaaxsx]  .btn-link:hover {
+            text-decoration: underline;
+        }
 
-    .top-row[b-15dgnaaxsx]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+        .top-row[b-15dgnaaxsx]  a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
 @media (max-width: 640.98px) {
     .top-row:not(.auth)[b-15dgnaaxsx] {

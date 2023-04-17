@@ -1,0 +1,5 @@
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows7.0\win10-x64\EL.MiniRobot.Blazor.csproj.AssemblyReference.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows7.0\win10-x64\EL.MiniRobot.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows7.0\win10-x64\EL.MiniRobot.Blazor.AssemblyInfoInputs.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows7.0\win10-x64\EL.MiniRobot.Blazor.AssemblyInfo.cs
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\obj\Debug\net6.0-windows7.0\win10-x64\EL.MiniRobot.Blazor.csproj.CoreCompileInputs.cache
