@@ -1,0 +1,15 @@
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\bin\Debug\net6.0\EL.Robot.Cmd.exe
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\bin\Debug\net6.0\EL.Robot.Cmd.deps.json
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\bin\Debug\net6.0\EL.Robot.Cmd.runtimeconfig.json
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\bin\Debug\net6.0\EL.Robot.Cmd.dll
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\bin\Debug\net6.0\EL.Robot.Cmd.pdb
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.csproj.AssemblyReference.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.AssemblyInfoInputs.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.AssemblyInfo.cs
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.csproj.CoreCompileInputs.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.dll
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\refint\EL.Robot.Cmd.dll
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.pdb
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\EL.Robot.Cmd.genruntimeconfig.cache
+D:\MinisRobot\src\EL.Robot.Window\EL.Robot.Cmd\obj\Debug\net6.0\ref\EL.Robot.Cmd.dll

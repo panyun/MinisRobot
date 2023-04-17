@@ -1,0 +1,1 @@
+D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\EL.MiniRobot.Blazor.csproj;x64

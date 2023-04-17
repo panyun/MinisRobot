@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.Robot.Cmd\\EL.Robot.Cmd.csproj",
-      "projectName": "EL.Robot.Cmd",
-      "projectPath": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.Robot.Cmd\\EL.Robot.Cmd.csproj",
+      "projectUniqueName": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.Robot.Cmd\\EL.MiniRobot.Cmd.csproj",
+      "projectName": "EL.MiniRobot.Cmd",
+      "projectPath": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.Robot.Cmd\\EL.MiniRobot.Cmd.csproj",
       "packagesPath": "C:\\Users\\panyu\\.nuget\\packages\\",
       "outputPath": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.Robot.Cmd\\obj\\",
       "projectStyle": "PackageReference",
