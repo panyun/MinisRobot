@@ -61,6 +61,66 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\信息.png",
+      "PackagePath": "staticwebassets\\img\\信息.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\其它.png",
+      "PackagePath": "staticwebassets\\img\\其它.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\剪切.png",
+      "PackagePath": "staticwebassets\\img\\剪切.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\加号_o.png",
+      "PackagePath": "staticwebassets\\img\\加号_o.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\叉叉.png",
+      "PackagePath": "staticwebassets\\img\\叉叉.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\头像.jpg",
+      "PackagePath": "staticwebassets\\img\\头像.jpg"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\文件夹.png",
+      "PackagePath": "staticwebassets\\img\\文件夹.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\朋友圈.png",
+      "PackagePath": "staticwebassets\\img\\朋友圈.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\标记.png",
+      "PackagePath": "staticwebassets\\img\\标记.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\横线.png",
+      "PackagePath": "staticwebassets\\img\\横线.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\正方形.png",
+      "PackagePath": "staticwebassets\\img\\正方形.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\消息-置灰.png",
+      "PackagePath": "staticwebassets\\img\\消息-置灰.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\立方体,正方形,应用.png",
+      "PackagePath": "staticwebassets\\img\\立方体,正方形,应用.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\联系人.png",
+      "PackagePath": "staticwebassets\\img\\联系人.png"
+    },
+    {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\表情.png",
+      "PackagePath": "staticwebassets\\img\\表情.png"
+    },
+    {
       "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

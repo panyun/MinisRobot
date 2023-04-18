@@ -1,21 +1,22 @@
 .navbar-toggler {
-    background-color: rgba(255, 255, 255, 0.1);
+    /*background-color: rgba(255, 255, 255, 0.1);*/
+    background-color: #2E2E2E;
 }
 
-.top-row {
+/*.top-row {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
-}
+   background-color: rgba(0,0,0,0.4);
+}*/
 
-.navbar-brand {
+/*.navbar-brand {
     font-size: 1.1rem;
-}
+}*/
 
 .oi {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
-    top: -2px;
+    top: 70px;
 }
 
 .nav-item {
@@ -34,21 +35,21 @@
     .nav-item ::deep a {
         color: #d7d7d7;
         border-radius: 4px;
-        height: 3rem;
+        height: 2rem;
         display: flex;
         align-items: center;
         line-height: 3rem;
     }
+    /*导航点击变色*/
+   .nav-item ::deep a.active {
+      /*  background-color: rgba(255,255,255,0.25);*/
+        color: white;
+    }
 
-        .nav-item ::deep a.active {
-            background-color: rgba(255,255,255,0.25);
-            color: white;
-        }
-
-        .nav-item ::deep a:hover {
-            background-color: rgba(255,255,255,0.1);
-            color: white;
-        }
+    .nav-item ::deep a:hover {
+      /*  background-color: rgba(255,255,255,0.1);*/
+        color: white;
+    }
 
 @media (min-width: 641px) {
     .navbar-toggler {
@@ -59,4 +60,12 @@
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+}
+
+img{
+    position:absolute;
+    top:30px;
+    left:7px;
+    height:40px;
+    
 }

@@ -1,9 +1,9 @@
-.navbar-toggler {
+/*.navbar-toggler {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
 .top-row {
-    height: 3.5rem;
+    height: 10rem;
     background-color: rgba(0,0,0,0.4);
 }
 
@@ -55,8 +55,125 @@
         display: none;
     }
 
-    .collapse {
+    .collapse {*/
         /* Never collapse the sidebar for wide screens */
-        display: block;
+        /*display: block;
     }
+}*/
+
+.container {
+ /*   background: pink;*/
+    margin: 0;
+}
+.sidebar {
+    position:absolute;
+    left:40px;
+    height: 50px;
+    width: 200px;
+    color: pink;
+}
+
+.main-left {
+    height: 560px;
+    width: 245px;
+    background-color: #D6D7D8;
+    position: absolute;
+    top: 0px;
+    left: 55px;
+    display: flex;
+    overflow: auto;
+   
+}
+
+.search {
+    position: fixed;
+    top: 0px;
+    left: 55px;
+    height: 60px;
+    width: 245px;
+    background-color: #F7F7F7;
+    z-index: 9999;
+}
+
+input {
+    position: absolute;
+    top: 23px;
+    left: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0.3px 0px rgba(0,0,0,0.2);
+    border-collapse: collapse;
+    border-style: none;
+    background-color: #E2E2E2;
+    font-size:14px;
+}
+.input-right {
+    position: absolute;
+    top: 23px;
+    height: 25px;
+    width: 25px;
+    left: 200px;
+    background-color: #E2E2E2;
+    border-radius: 5px;
+    box-shadow: 0px 0.3px 0px rgba(0,0,0,0.2);
+   
+}
+.input-right img{
+    height:20px;
+    width:20px;
+    position:absolute;
+    left:2px;
+    top:2px;
+}
+li{
+    list-style:none;
+    margin:0;
+    margin-bottom:1px;
+    /*width:100%;*/
+}
+ul{
+    margin:0;
+    padding:0;
+}
+img{
+    position:absolute;
+    left:10px;
+    top:8px;
+    height:40px;
+}
+.chatlist {
+    width: 150px;
+    height: 60px;
+    background: #D6D7D8;
+    position: relative;
+}
+.username{
+    position:relative;
+    left:70px;
+    color:#666;
+    top:10px;
+}
+.content{
+    position:absolute;
+    height:60px;
+    color:#aaa;
+    font-size:14px;
+    top:15px;
+    left:70px;
+}
+.time {
+    position: absolute;
+    left: 180px;
+    top: 12px;
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+   
+}
+.main-right {
+    height: 560px;
+    width: 633px;
+    background-color: #F5F5F5;
+    position: absolute;
+    top: 0px;
+    left: 300px;
 }
