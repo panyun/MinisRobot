@@ -910,50 +910,53 @@
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\信息.png">
-      <PackagePath>wwwroot\img\信息.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\avatar.jpg">
+      <PackagePath>wwwroot\img\avatar.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\其它.png">
-      <PackagePath>wwwroot\img\其它.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\circle.png">
+      <PackagePath>wwwroot\img\circle.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\剪切.png">
-      <PackagePath>wwwroot\img\剪切.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\Contact.png">
+      <PackagePath>wwwroot\img\Contact.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\加号_o.png">
-      <PackagePath>wwwroot\img\加号_o.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\dot.png">
+      <PackagePath>wwwroot\img\dot.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\叉叉.png">
-      <PackagePath>wwwroot\img\叉叉.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\expression.png">
+      <PackagePath>wwwroot\img\expression.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\头像.jpg">
-      <PackagePath>wwwroot\img\头像.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\folder.png">
+      <PackagePath>wwwroot\img\folder.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\文件夹.png">
-      <PackagePath>wwwroot\img\文件夹.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\Forks.png">
+      <PackagePath>wwwroot\img\Forks.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\朋友圈.png">
-      <PackagePath>wwwroot\img\朋友圈.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\icon_set top.png">
+      <PackagePath>wwwroot\img\icon_set top.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\标记.png">
-      <PackagePath>wwwroot\img\标记.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\Information.png">
+      <PackagePath>wwwroot\img\Information.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\横线.png">
-      <PackagePath>wwwroot\img\横线.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\line.png">
+      <PackagePath>wwwroot\img\line.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\正方形.png">
-      <PackagePath>wwwroot\img\正方形.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\mark.png">
+      <PackagePath>wwwroot\img\mark.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\消息-置灰.png">
-      <PackagePath>wwwroot\img\消息-置灰.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\message.png">
+      <PackagePath>wwwroot\img\message.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\立方体,正方形,应用.png">
-      <PackagePath>wwwroot\img\立方体,正方形,应用.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\plus.png">
+      <PackagePath>wwwroot\img\plus.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\联系人.png">
-      <PackagePath>wwwroot\img\联系人.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\shear.png">
+      <PackagePath>wwwroot\img\shear.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\表情.png">
-      <PackagePath>wwwroot\img\表情.png</PackagePath>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\solid.png">
+      <PackagePath>wwwroot\img\solid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\square.png">
+      <PackagePath>wwwroot\img\square.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>

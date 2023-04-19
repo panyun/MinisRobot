@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S0mleiyDGWG99GwNpRNoCWkckeJC3FXq6bcCjhayDK8=",
+  "Hash": "dUsXkl4yCkfsaQMk2P+j2hHHRxkS/Rn9iQMZMd5iSHw=",
   "Source": "EL.MiniRobot.Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -289,12 +289,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\信息.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\avatar.jpg",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/信息.png",
+      "RelativePath": "img/avatar.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\信息.png"
+      "OriginalItemSpec": "wwwroot\\img\\avatar.jpg"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\其它.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\circle.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/其它.png",
+      "RelativePath": "img/circle.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\其它.png"
+      "OriginalItemSpec": "wwwroot\\img\\circle.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\剪切.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\Contact.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/剪切.png",
+      "RelativePath": "img/Contact.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\剪切.png"
+      "OriginalItemSpec": "wwwroot\\img\\Contact.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\加号_o.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\dot.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/加号_o.png",
+      "RelativePath": "img/dot.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\加号_o.png"
+      "OriginalItemSpec": "wwwroot\\img\\dot.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\叉叉.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\expression.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/叉叉.png",
+      "RelativePath": "img/expression.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\叉叉.png"
+      "OriginalItemSpec": "wwwroot\\img\\expression.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\头像.jpg",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\folder.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/头像.jpg",
+      "RelativePath": "img/folder.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\头像.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\folder.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\文件夹.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\Forks.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/文件夹.png",
+      "RelativePath": "img/Forks.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\文件夹.png"
+      "OriginalItemSpec": "wwwroot\\img\\Forks.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\朋友圈.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\icon_set top.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/朋友圈.png",
+      "RelativePath": "img/icon_set top.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\朋友圈.png"
+      "OriginalItemSpec": "wwwroot\\img\\icon_set top.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\标记.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\Information.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/标记.png",
+      "RelativePath": "img/Information.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\标记.png"
+      "OriginalItemSpec": "wwwroot\\img\\Information.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\横线.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\line.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/横线.png",
+      "RelativePath": "img/line.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\横线.png"
+      "OriginalItemSpec": "wwwroot\\img\\line.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\正方形.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\mark.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/正方形.png",
+      "RelativePath": "img/mark.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\正方形.png"
+      "OriginalItemSpec": "wwwroot\\img\\mark.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\消息-置灰.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\message.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/消息-置灰.png",
+      "RelativePath": "img/message.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\消息-置灰.png"
+      "OriginalItemSpec": "wwwroot\\img\\message.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\立方体,正方形,应用.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\plus.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/立方体,正方形,应用.png",
+      "RelativePath": "img/plus.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\立方体,正方形,应用.png"
+      "OriginalItemSpec": "wwwroot\\img\\plus.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\联系人.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\shear.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/联系人.png",
+      "RelativePath": "img/shear.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\联系人.png"
+      "OriginalItemSpec": "wwwroot\\img\\shear.png"
     },
     {
-      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\表情.png",
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\solid.png",
       "SourceId": "EL.MiniRobot.Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/表情.png",
+      "RelativePath": "img/solid.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,7 +541,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\表情.png"
+      "OriginalItemSpec": "wwwroot\\img\\solid.png"
+    },
+    {
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\square.png",
+      "SourceId": "EL.MiniRobot.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/square.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\square.png"
     },
     {
       "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\index.html",

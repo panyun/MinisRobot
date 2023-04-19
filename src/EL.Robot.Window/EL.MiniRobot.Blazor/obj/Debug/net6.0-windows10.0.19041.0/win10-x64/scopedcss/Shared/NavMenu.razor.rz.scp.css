@@ -17,16 +17,25 @@
     font-size: 1.1rem;
     vertical-align: text-top;
     top: 70px;
+    left:-12px;
 }
+
 
 .nav-item[b-d9daaww8hg] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
+.nav-link img[b-d9daaww8hg]{
+    position:absolute;
+    top:90px;
+    left:15px;
+    height:25px;
 
-    .nav-item:first-of-type[b-d9daaww8hg] {
-        padding-top: 1rem;
-    }
+}
+
+.nav-item:first-of-type[b-d9daaww8hg] {
+    padding-top: 1rem;
+}
 
     .nav-item:last-of-type[b-d9daaww8hg] {
         padding-bottom: 1rem;
