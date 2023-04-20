@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\img\\Information.png"
     },
     {
+      "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\add.png",
+      "PackagePath": "staticwebassets\\img\\add.png"
+    },
+    {
       "Id": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },

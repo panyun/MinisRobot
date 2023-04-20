@@ -87,7 +87,7 @@
 .search {
     position: fixed;
     top: 0px;
-    left: 55px;
+    left:55px;
     height: 60px;
     width: 245px;
     background-color: #F7F7F7;
@@ -123,12 +123,18 @@ input {
     left:2px;
     top:2px;
 }
+.list{
+  /*  position:absolute;
+    height:195px;
+    width:245px;
+    top:60px;
+    */
+}
 
 li {
-    list-style: none;
+   /* list-style: none;
     margin: 0;
-    margin-bottom: 1px;
-  
+    margin-bottom: 1px;*/
 }
 ul{
     margin:0;
@@ -141,7 +147,7 @@ img{
     height:40px;
 }
 .chatlist {
-    width: 150px;
+    width:150px;
     height: 60px;
     background: #D6D7D8;
     position: relative;
@@ -149,14 +155,17 @@ img{
 .username{
     position:relative;
     left:70px;
-    color:#666;
+    /*color:#666;*/
+    color:black;
+    font-size:14px;
     top:10px;
 }
 .content{
     position:absolute;
     height:60px;
     color:#aaa;
-    font-size:14px;
+    font-size:10px;
+   
     top:15px;
     left:70px;
 }
@@ -179,6 +188,7 @@ img{
     left: 300px;
 }
 .top {
+    width: 100%;
     height: 60px;
     background-color: #F5F5F5;
     border-left-style: solid;
@@ -193,45 +203,24 @@ img{
     font-size: 1.1rem;
     
 }
-.top-icon img {
-    position: absolute;
-    left: 510px;
-    top: 6px;
-    height: 13px;
-    
-}
-.top-line img {
-    position: absolute;
-    left: 540px;
-    top: 6px;
-    height: 15px;
-    
-}
-.top-square img {
-    position: absolute;
-    left: 580px;
-    top: 6px;
-    height: 13px;
-}
-.top-forks img{
-    position: absolute;
-    left: 610px;
-    top: 6px;
-    height: 15px;
+.top-dot {
+    width: 100%;
+    height: 100%;
 }
 .top-dot img {
     position: absolute;
     left: 610px;
-    top: 35px;
+    top: 8px;
     height: 15px;
+    
 }
 .bottom {
-    top:300px;
+    top:100px;
     height: 150px;
     margin: 0px 0px 500px 0px;
-  /*  background-color: pink; *//*
+    background-color: pink; 
     border-left-style: solid;
     border-bottom-style: solid;
     border-width: 1px;
-    border-color: #E7E7E7;*/
+    border-color: #E7E7E7;
 }

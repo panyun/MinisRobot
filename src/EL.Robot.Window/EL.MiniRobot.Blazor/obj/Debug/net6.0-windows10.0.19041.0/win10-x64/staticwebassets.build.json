@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "100c+qKSkmY9B+bm1ZdgycRGSbqIt00WHpC+x0WxxfE=",
+  "Hash": "IYZyR2/0Wjn8Jk9Lrd7xHZX4BtbRKdN3eCNq6tVa+wk=",
   "Source": "EL.MiniRobot.Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\add.png",
+      "SourceId": "EL.MiniRobot.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/add.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\add.png"
     },
     {
       "Identity": "D:\\MinisRobot\\src\\EL.Robot.Window\\EL.MiniRobot.Blazor\\wwwroot\\img\\avatar.jpg",

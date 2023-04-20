@@ -4,11 +4,12 @@
              xmlns:local="clr-namespace:EL.MiniRobot.Blazor"
              x:Class="EL.MiniRobot.Blazor.MainPage"
              BackgroundColor="{DynamicResource PageBackgroundColor}">
+   
+        <BlazorWebView HostPage="wwwroot/index.html">
+            <BlazorWebView.RootComponents>
 
-    <BlazorWebView HostPage="wwwroot/index.html">
-        <BlazorWebView.RootComponents>
-            <RootComponent Selector="#app" ComponentType="{x:Type local:Main}" />
-        </BlazorWebView.RootComponents>
-    </BlazorWebView>
+                <RootComponent Selector="#app" ComponentType="{x:Type local:Main}" />
+            </BlazorWebView.RootComponents>
+        </BlazorWebView>
 
 </ContentPage>

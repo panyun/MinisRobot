@@ -1,4 +1,91 @@
 /* /Pages/Counter.razor.rz.scp.css */
+.contact[b-jcu8c0hwnn]{
+
+}
+.contact-left[b-jcu8c0hwnn] {
+    height: 100%;
+    width: 245px;
+    background-color: pink;
+    position: absolute;
+    top: 0px;
+    left: 55px;
+    display: flex;
+    
+}
+.search[b-jcu8c0hwnn] {
+    position: fixed;
+    top: 0px;
+    left: 55px;
+    height: 60px;
+    width: 245px;
+    background-color: #F7F7F7;
+    z-index: 9999;
+}
+input[b-jcu8c0hwnn] {
+    position: absolute;
+    top: 23px;
+    left: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0.3px 0px rgba(0,0,0,0.2);
+    border-collapse: collapse;
+    border-style: none;
+    background-color: #E2E2E2;
+    font-size: 14px;
+}
+.input-right[b-jcu8c0hwnn] {
+    position: absolute;
+    top: 23px;
+    height: 25px;
+    width: 25px;
+    left: 200px;
+    background-color: #E2E2E2;
+    border-radius: 5px;
+    box-shadow: 0px 0.3px 0px rgba(0,0,0,0.2);
+}
+
+.input-right img[b-jcu8c0hwnn] {
+        height: 20px;
+        width: 18px;
+        position: absolute;
+        left: 3px;
+        top: 2px;
+    }
+.list[b-jcu8c0hwnn]{
+    position:absolute;
+    
+    height:100%;
+    width:245px;
+    background-color:gray;
+}
+ul[b-jcu8c0hwnn] {
+    margin: 0;
+    padding: 0;
+}
+ li img[b-jcu8c0hwnn] {
+    position: absolute;
+    left: 10px;
+    top: 130px;
+    height: 40px;
+}
+ul li input[b-jcu8c0hwnn] {
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    height:40px;
+    width:225px;
+    border-radius:0;
+    box-shadow: 0.3px 0.3px 0.3px rgba(0,0,0,0.2);
+   /* border-collapse: collapse;*/
+    border-style: none;
+    background-color: whitesmoke;
+    font-size: 14px;
+}
+.add[b-jcu8c0hwnn] {
+    position: absolute;
+    top: 90px;
+    left: 70px;
+    height:20px;
+}
 /* /Pages/FetchData.razor.rz.scp.css */
 .navbar-toggler[b-70off47nuy] {
     background-color: rgba(255, 255, 255, 0.1);
@@ -152,7 +239,7 @@
 .search[b-anj6i9x647] {
     position: fixed;
     top: 0px;
-    left: 55px;
+    left:55px;
     height: 60px;
     width: 245px;
     background-color: #F7F7F7;
@@ -188,12 +275,18 @@ input[b-anj6i9x647] {
     left:2px;
     top:2px;
 }
+.list[b-anj6i9x647]{
+  /*  position:absolute;
+    height:195px;
+    width:245px;
+    top:60px;
+    */
+}
 
 li[b-anj6i9x647] {
-    list-style: none;
+   /* list-style: none;
     margin: 0;
-    margin-bottom: 1px;
-  
+    margin-bottom: 1px;*/
 }
 ul[b-anj6i9x647]{
     margin:0;
@@ -206,7 +299,7 @@ img[b-anj6i9x647]{
     height:40px;
 }
 .chatlist[b-anj6i9x647] {
-    width: 150px;
+    width:150px;
     height: 60px;
     background: #D6D7D8;
     position: relative;
@@ -214,14 +307,17 @@ img[b-anj6i9x647]{
 .username[b-anj6i9x647]{
     position:relative;
     left:70px;
-    color:#666;
+    /*color:#666;*/
+    color:black;
+    font-size:14px;
     top:10px;
 }
 .content[b-anj6i9x647]{
     position:absolute;
     height:60px;
     color:#aaa;
-    font-size:14px;
+    font-size:10px;
+   
     top:15px;
     left:70px;
 }
@@ -244,6 +340,7 @@ img[b-anj6i9x647]{
     left: 300px;
 }
 .top[b-anj6i9x647] {
+    width: 100%;
     height: 60px;
     background-color: #F5F5F5;
     border-left-style: solid;
@@ -258,47 +355,26 @@ img[b-anj6i9x647]{
     font-size: 1.1rem;
     
 }
-.top-icon img[b-anj6i9x647] {
-    position: absolute;
-    left: 510px;
-    top: 6px;
-    height: 13px;
-    
-}
-.top-line img[b-anj6i9x647] {
-    position: absolute;
-    left: 540px;
-    top: 6px;
-    height: 15px;
-    
-}
-.top-square img[b-anj6i9x647] {
-    position: absolute;
-    left: 580px;
-    top: 6px;
-    height: 13px;
-}
-.top-forks img[b-anj6i9x647]{
-    position: absolute;
-    left: 610px;
-    top: 6px;
-    height: 15px;
+.top-dot[b-anj6i9x647] {
+    width: 100%;
+    height: 100%;
 }
 .top-dot img[b-anj6i9x647] {
     position: absolute;
     left: 610px;
-    top: 35px;
+    top: 8px;
     height: 15px;
+    
 }
 .bottom[b-anj6i9x647] {
-    top:300px;
+    top:100px;
     height: 150px;
     margin: 0px 0px 500px 0px;
-  /*  background-color: pink; *//*
+    background-color: pink; 
     border-left-style: solid;
     border-bottom-style: solid;
     border-width: 1px;
-    border-color: #E7E7E7;*/
+    border-color: #E7E7E7;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 *[b-15dgnaaxsx] {

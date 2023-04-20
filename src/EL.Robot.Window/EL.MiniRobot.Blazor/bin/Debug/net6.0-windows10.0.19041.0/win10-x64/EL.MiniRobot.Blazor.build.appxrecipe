@@ -910,6 +910,9 @@
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\add.png">
+      <PackagePath>wwwroot\img\add.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MinisRobot\src\EL.Robot.Window\EL.MiniRobot.Blazor\wwwroot\img\avatar.jpg">
       <PackagePath>wwwroot\img\avatar.jpg</PackagePath>
     </AppxPackagedFile>
