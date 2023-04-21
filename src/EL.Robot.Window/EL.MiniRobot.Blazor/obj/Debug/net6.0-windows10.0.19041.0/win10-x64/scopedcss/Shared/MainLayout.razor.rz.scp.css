@@ -1,6 +1,8 @@
 *[b-15dgnaaxsx] {
     margin: 0px;
     padding: 0px;
+    /*ȥ��������*/
+    overflow-x: hidden;
 }
 
 .page[b-15dgnaaxsx] {

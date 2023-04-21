@@ -63,6 +63,7 @@
 
 .container[b-anj6i9x647] {
     margin: 0;
+    
 }
 /*.sidebar {
     position:absolute;
@@ -182,10 +183,10 @@ img[b-anj6i9x647]{
     height: 100%;
     width: 100%;
     background-color: #F5F5F5;
-   /* background-color: deeppink;*/
     position: absolute;
     top: 0px;
     left: 300px;
+    
 }
 .top[b-anj6i9x647] {
     width: 100%;
@@ -204,19 +205,19 @@ img[b-anj6i9x647]{
     
 }
 .top-dot[b-anj6i9x647] {
-    width: 100%;
-    height: 100%;
+    position: fixed;
+    right: 50px;
+   
 }
 .top-dot img[b-anj6i9x647] {
-    position: absolute;
-    left: 610px;
-    top: 8px;
-    height: 15px;
-    
+    height: 15px;   
 }
 .bottom[b-anj6i9x647] {
-    top:100px;
+    position:absolute;
+    top:300px;
+    bottom:40px;
     height: 150px;
+    width:100%;
     margin: 0px 0px 500px 0px;
     background-color: pink; 
     border-left-style: solid;

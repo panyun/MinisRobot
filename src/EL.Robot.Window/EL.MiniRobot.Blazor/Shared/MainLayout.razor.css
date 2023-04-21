@@ -1,6 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
+    /*È¥³ý¹ö¶¯Ìõ*/
+    overflow-x: hidden;
 }
 
 .page {
